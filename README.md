@@ -17,7 +17,9 @@ Self-contained Jupyter notebook that installs the required dependencies.
 
 
 Walking Speed: Assumed 1.39 m/s (5 km/h)
+
 Time windows: 5 mins, 10 mins and 15 mins
+
 Marienplatz coordinates: (48.137154, 11.576124)
 
 # Munich walkable network
