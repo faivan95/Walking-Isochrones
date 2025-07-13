@@ -1,4 +1,4 @@
-# Generated 5, 10 and 15 minute walking isochrones from Marienplatz.
+# Generated 5, 10 and 15 minute walking isochrones from Marienplatz center
 <picture>
  <img alt="Marienplatz" src="Marienplatz_reachable_walking_zones_from_center.png">
 </picture>
