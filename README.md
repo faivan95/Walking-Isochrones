@@ -1,0 +1,1 @@
+Generate 5-, 10- and 15-minute walking isochrones from Marienplatz.
